@@ -8,19 +8,19 @@
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;A montagem foi realizada em uma *protoboard* e com um suporte em MDF, simulando um semáforo. Cada LED foi conectado a uma porta do Arduino, além de estar em série com resistores que limitam a corrente, os quais estão conectados ao GND do Arduino. Portanto, O Arduino é responsável por alternar o acendimento e o apagamento dos LEDs na sequência estipulada. 
+&nbsp;&nbsp;&nbsp;&nbsp;A montagem foi realizada em uma *protoboard* e com um suporte em MDF, simulando um semáforo. Cada LED foi conectado a uma porta do Arduino, além de estar em série com resistores, os quais estão conectados ao GND do Arduino. Dessa forma, O Arduino é responsável por alternar o acendimento e o apagamento dos LEDs na sequência estipulada. 
    
 #### Tabela de Componentes Utilizados
 
 | Componente | Quantidade | Especificações |
 |------------|------------|------------|
-| Arduino Uno  | 1          | 
-| LED Vermelho | 1          |
-| LED Amarelo  | 1          |
-| LED Verde    | 1          |
-| Resistor     | 3          |
-| Protoboard   | 1          |
-| Jumpers      | Diversos   |
+| Arduino Uno  | 1          | |
+| LED Vermelho | 1          | 5mm, 2V, 20mA
+| LED Amarelo  | 1          | 5mm, 2V, 20mA |
+| LED Verde    | 1          | 5mm, 2V, 20mA|
+| Resistor     | 3          | 330 Ω|
+| Protoboard   | 1          | |
+| Jumpers      | Diversos   ||
 
 ### Circuito
 
