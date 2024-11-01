@@ -46,7 +46,7 @@
    - O outro terminal do resistor está conectado ao GND do Arduino.
 
 ### Código
-&nbsp;&nbsp;&nbsp;&nbsp;O código, disponível [aqui](./semaforo.ino), implementa o funcionamento de um semáforo usando o Arduino. Ele define três portas para controlar LEDs. 
+&nbsp;&nbsp;&nbsp;&nbsp;O código, disponível [aqui](./semaforo.ino), implementa o funcionamento do semáforo. Ele define três portas para controlar LEDs. 
 
 1. **Configuração dos pinos e intervalos**: São declarados pinos específicos para cada LED, junto com o tempo (em milissegundos) que cada um ficará aceso.
 
